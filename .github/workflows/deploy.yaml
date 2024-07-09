@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Check-out your repository.
-      - name: Checkout
+      - name: cicd
         uses: actions/checkout@v2
 
 
